@@ -18,7 +18,7 @@ I’m interested in Game making
 
 I’m currently learning C#,C++
 
-and,of caurse,English
+and,of course,English
 
 
 <!---
